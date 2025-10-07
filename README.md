@@ -94,3 +94,33 @@ RBS transforms that workflow with a **real-time, intelligent, and role-based web
 - 🤝 **Integration with Other Thapar Systems**
 
 ---
+
+---
+
+## 💬 Let’s Connect
+
+I would love to connect and **walk you through this project** — from architecture to deployment.  
+Let’s talk about how systems like this can scale to other institutions too!
+
+📧 Email: [avinash8298000@gmail.com](mailto:avinash8298000@gmail.com)  
+🔗 LinkedIn: [Avinash Kumar](https://www.linkedin.com/in/avikumar1084/)
+
+## 🖼️ Project Preview
+
+### 🎨 Homepage
+
+![Signup](/Images/Signup.jpeg)
+
+### 🧾 Booking Interface
+
+![Rooms](./Images/Rooms.jpeg)
+
+![Bookings](./Images/Bookings.jpeg)
+
+### 📊 Admin Dashboard
+
+![Admin Dashboard](./Images/Dashboard.jpeg)
+
+![Add User](./Images/AddUser.jpeg)
+
+![Approval](./Images/Approval.jpeg)
