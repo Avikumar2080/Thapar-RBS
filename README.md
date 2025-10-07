@@ -109,18 +109,18 @@ Let’s talk about how systems like this can scale to other institutions too!
 
 ### 🎨 Homepage
 
-![Signup](/Images/Signup.jpeg)
+![Signup](../Images/Signup.jpeg)
 
 ### 🧾 Booking Interface
 
-![Rooms](./Images/Rooms.jpeg)
+![Rooms](../Images/Rooms.jpeg)
 
-![Bookings](./Images/Bookings.jpeg)
+![Bookings](../Images/Bookings.jpeg)
 
 ### 📊 Admin Dashboard
 
-![Admin Dashboard](./Images/Dashboard.jpeg)
+![Admin Dashboard](../Images/Dashboard.jpeg)
 
-![Add User](./Images/AddUser.jpeg)
+![Add User](../Images/AddUser.jpeg)
 
-![Approval](./Images/Approval.jpeg)
+![Approval](../Images/Approval.jpeg)
