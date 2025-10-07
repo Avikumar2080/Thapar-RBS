@@ -4,13 +4,6 @@
 
 ### 🎓 A Secure & Scalable Room Reservation Platform for Thapar Institute of Engineering & Technology
 
-![Status](https://img.shields.io/badge/status-live-brightgreen)
-![Server](https://img.shields.io/badge/hosted-on_thapar_intranet-blue)
-![License](https://img.shields.io/badge/license-internal-yellow)
-![Backend](https://img.shields.io/badge/backend-Node.js%20%7C%20Express-green)
-![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
-![Frontend](https://img.shields.io/badge/frontend-React.js-orange)
-
 </div>
 
 ---
