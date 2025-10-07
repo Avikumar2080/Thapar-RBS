@@ -81,22 +81,16 @@ RBS transforms that workflow with a **real-time, intelligent, and role-based web
 
 ## 🔮 Future Scope
 
-- 🏨 **Guest Room Booking System**  
-  Extend RBS to manage **guesthouse and visitor accommodations** within Thapar University, enabling faculty and administration to handle room requests for guests and external events.
+- 🏨 **Guest Room Booking System**
 
-- 📱 **Mobile-Friendly & App Integration**  
-  Develop a responsive **mobile version** and a lightweight **PWA (Progressive Web App)** for seamless on-the-go booking and approvals.
+- 📱 **Mobile-Friendly & App Integration**
 
-- 📊 **Analytics & Insights Dashboard**  
-  Introduce an advanced analytics panel to visualize **room utilization trends**, track demand patterns, and support data-driven scheduling decisions.
+- 📊 **Analytics & Insights Dashboard**
 
-- 🔔 **Real-Time Notifications**  
-  Integrate **WebSocket-based live updates** for instant notifications about approvals, cancellations, and reminders.
+- 🔔 **Real-Time Notifications**
 
-- ☁️ **Scalability & Cloud Deployment**  
-  Containerize and deploy RBS using **Docker and cloud services (AWS/Azure)** to enhance performance, scalability, and uptime.
+- ☁️ **Scalability & Cloud Deployment**
 
-- 🤝 **Integration with Other Thapar Systems**  
-  Connect RBS with **Thapar’s central authentication system** and **event management tools** for unified campus operations.
+- 🤝 **Integration with Other Thapar Systems**
 
 ---
